@@ -5,7 +5,7 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: test Hello, I'm Jihun from South Korea. <br>I'm Madrid based <span class="accent-text">Web Designer.</span>
+  description: Hello, I'm Jihun from South Korea. <br>I'm Madrid based <span class="accent-text">Web Designer.</span>
   image:
     url: home-hero.png
     alt: The top of mountain image
